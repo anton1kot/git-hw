@@ -1,0 +1,38 @@
+C:\Users\anton\Desktop\git-hw>git log
+commit 390bbbc25382f6aa1f361127d463d18ff95d3e80 (HEAD -> master, origin/master)
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 18:30:41 2026 +0300
+
+    rebase in jet
+
+commit a5326db43b936c9b979efe5d72d490cc804fc13a
+Merge: a5c3fca a4718d6
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 19:48:57 2026 +0300
+
+    merge term conflict
+
+commit a4718d680fd00e942c3ed8a4a8b751cbc0599761 (origin/feature-b)
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 18:30:41 2026 +0300
+
+    строка 1
+
+commit a5c3fca06456a921edb99535a51c396ac78e2f83 (origin/feature-a)
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 16:25:36 2026 +0300
+
+    строка 2
+
+commit 93d0fa06830a7a637d8bd6b6e067fd43b0b07635
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 16:25:11 2026 +0300
+
+    строка 1
+
+commit a4f9e6227e113f1ade8681a32c21f6d65dac6d88
+Author: anton <anton1kotlyarenko@gmail.com>
+Date:   Fri Oct 9 16:12:51 2026 +0300
+
+    init
+(END)
